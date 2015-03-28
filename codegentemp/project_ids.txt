@@ -1,0 +1,7 @@
+C:\Users\Sausy\Documents\PSoC Creator\FTLK\Jahresprojekt\Jahresprojekt.cydsn\Jahresprojekt.cyprj|a73d768f-54ec-4712-85cf-9aa07783e89d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2e22d12e-bd79-4b77-9722-7002455de0af
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e03d0318-2350-4cfa-8fef-129a0b075a75
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ccb4eed2-eabd-4673-b842-87fced7c775f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b8acf023-25d6-4078-9383-a414d39423ab
+C:\Users\Sausy\Documents\PSoC Creator\FTLK\Test\KIT042_Proximity.cydsn\KIT042_Proximity.cyprj|dc59ffb9-968c-4619-bb20-594a18e4ae59
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|d23c68ae-57a5-4489-86d5-ae8bf5702060

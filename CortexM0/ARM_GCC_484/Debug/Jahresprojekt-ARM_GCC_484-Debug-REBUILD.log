@@ -1,0 +1,136 @@
+--------------- Rebuild Started: 03/27/2015 17:57:37 Project: Jahresprojekt, Configuration: ARM GCC 4.8.4 Debug ---------------
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\main.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CCR.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\proximity.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\LED_RGB.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\cyfitter_cfg.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\cymetadata.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_SPI_UART.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_SPI_UART_INT.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_PM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_UART.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_BOOT.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_UART_BOOT.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_PM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_CSHL.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_INT.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_TunerHelper.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Pin_GreenLED.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\counter_isr.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Counter_Controll_Register.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Pin_BlueLED.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Clock.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM_PM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_SCBCLK.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\UART_tx.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_SampleClk.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_Sns.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_SenseClk.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Cm0Start.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CyBootAsmGnu.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CyFlash.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\CyLib.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\cyPm.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\cyutils.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Clock_PWM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Pin_RedLED.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM_R.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM_R_PM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM_G.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM_G_PM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM_B.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\PWM_B_PM.o"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.hex"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.elf"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.map"
+Deleting file ".\Jahresprojekt.cycdx"
+Deleting file ".\Jahresprojekt.svd"
+Deleting file ".\Jahresprojekt.rpt"
+Deleting file ".\Jahresprojekt_timing.html"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\.deps\C_FILE.P"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\.deps\ARM_C_FILE.P"
+Deleting file ".\CortexM0\ARM_GCC_484\Debug\.deps\GNU_ARM_ASM_FILE.P"
+cydsfit.exe -.appdatapath "C:\Users\Sausy\AppData\Local\Cypress Semiconductor\PSoC Creator\3.1" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p "C:\Users\Sausy\Documents\PSoC Creator\FTLK\Jahresprojekt\Jahresprojekt.cydsn\Jahresprojekt.cyprj" -d CY8C4245AXI-483 -s "C:\Users\Sausy\Documents\PSoC Creator\FTLK\Jahresprojekt\Jahresprojekt.cydsn\Generated_Source\PSoC4" -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+HDL Generation ...
+Synthesis ...
+Place and Route ...
+Tech mapping ...
+ADD: pft.M0040: information: The following 2 pin(s) will be assigned a location by the fitter: \CapSense_CSD:Cmod(0)\, \UART:tx(0)\
+Analog Placement ...
+Analog Routing ...
+Analog Code Generation ...
+Digital Placement ...
+Digital Routing ...
+Bitstream Generation ...
+Static timing analysis ...
+API Generation ...
+Dependency Generation ...
+Clean Temporary Files ...
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/main.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\main.c -o .\CortexM0\ARM_GCC_484\Debug\main.o
+.\main.c: In function 'main':
+.\main.c:53:10: warning: unused variable 'tgl_buffer_bit' [-Wunused-variable]
+     bool tgl_buffer_bit = 0;
+          ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CCR.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\CCR.c -o .\CortexM0\ARM_GCC_484\Debug\CCR.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/proximity.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\proximity.c -o .\CortexM0\ARM_GCC_484\Debug\proximity.o
+.\proximity.c: In function 'CapSense_loop_func':
+.\proximity.c:61:5: warning: implicit declaration of function 'LED_RGB_SetColorCircle' [-Wimplicit-function-declaration]
+     LED_RGB_SetColorCircle(hue);
+     ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/LED_RGB.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\LED_RGB.c -o .\CortexM0\ARM_GCC_484\Debug\LED_RGB.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/cyfitter_cfg.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\cyfitter_cfg.c -o .\CortexM0\ARM_GCC_484\Debug\cyfitter_cfg.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/cymetadata.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\cymetadata.c -o .\CortexM0\ARM_GCC_484\Debug\cymetadata.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART.c -o .\CortexM0\ARM_GCC_484\Debug\UART.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_SPI_UART.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_SPI_UART.c -o .\CortexM0\ARM_GCC_484\Debug\UART_SPI_UART.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_SPI_UART_INT.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_SPI_UART_INT.c -o .\CortexM0\ARM_GCC_484\Debug\UART_SPI_UART_INT.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_PM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_PM.c -o .\CortexM0\ARM_GCC_484\Debug\UART_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_UART.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_UART.c -o .\CortexM0\ARM_GCC_484\Debug\UART_UART.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_BOOT.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_BOOT.c -o .\CortexM0\ARM_GCC_484\Debug\UART_BOOT.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_UART_BOOT.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_UART_BOOT.c -o .\CortexM0\ARM_GCC_484\Debug\UART_UART_BOOT.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD_PM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD_PM.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD_CSHL.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD_CSHL.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_CSHL.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD_INT.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD_INT.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_INT.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD_TunerHelper.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD_TunerHelper.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_TunerHelper.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/Pin_GreenLED.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\Pin_GreenLED.c -o .\CortexM0\ARM_GCC_484\Debug\Pin_GreenLED.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/counter_isr.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\counter_isr.c -o .\CortexM0\ARM_GCC_484\Debug\counter_isr.o
+.\Generated_Source\PSoC4\counter_isr.c: In function 'counter_isr_Interrupt':
+.\Generated_Source\PSoC4\counter_isr.c:148:4: warning: this decimal constant is unsigned only in ISO C90 [enabled by default]
+    if(glob_sec_counter >=  4294967294)
+    ^
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/Counter_Controll_Register.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\Counter_Controll_Register.c -o .\CortexM0\ARM_GCC_484\Debug\Counter_Controll_Register.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/Pin_BlueLED.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\Pin_BlueLED.c -o .\CortexM0\ARM_GCC_484\Debug\Pin_BlueLED.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/Clock.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\Clock.c -o .\CortexM0\ARM_GCC_484\Debug\Clock.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM.c -o .\CortexM0\ARM_GCC_484\Debug\PWM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM_PM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM_PM.c -o .\CortexM0\ARM_GCC_484\Debug\PWM_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_SCBCLK.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_SCBCLK.c -o .\CortexM0\ARM_GCC_484\Debug\UART_SCBCLK.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/UART_tx.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\UART_tx.c -o .\CortexM0\ARM_GCC_484\Debug\UART_tx.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD_SampleClk.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD_SampleClk.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_SampleClk.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD_Sns.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD_Sns.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_Sns.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CapSense_CSD_SenseClk.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CapSense_CSD_SenseClk.c -o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_SenseClk.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/Cm0Start.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\Cm0Start.c -o .\CortexM0\ARM_GCC_484\Debug\Cm0Start.o
+arm-none-eabi-as.exe -mcpu=cortex-m0 -mthumb -I. -I.\Generated_Source\PSoC4 -alh=.\CortexM0\ARM_GCC_484\Debug/CyBootAsmGnu.lst -g -W -o .\CortexM0\ARM_GCC_484\Debug\CyBootAsmGnu.o .\Generated_Source\PSoC4\CyBootAsmGnu.s
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CyFlash.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CyFlash.c -o .\CortexM0\ARM_GCC_484\Debug\CyFlash.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/CyLib.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\CyLib.c -o .\CortexM0\ARM_GCC_484\Debug\CyLib.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/cyPm.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\cyPm.c -o .\CortexM0\ARM_GCC_484\Debug\cyPm.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/cyutils.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\cyutils.c -o .\CortexM0\ARM_GCC_484\Debug\cyutils.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/Clock_PWM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\Clock_PWM.c -o .\CortexM0\ARM_GCC_484\Debug\Clock_PWM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/Pin_RedLED.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\Pin_RedLED.c -o .\CortexM0\ARM_GCC_484\Debug\Pin_RedLED.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM_R.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM_R.c -o .\CortexM0\ARM_GCC_484\Debug\PWM_R.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM_R_PM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM_R_PM.c -o .\CortexM0\ARM_GCC_484\Debug\PWM_R_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM_G.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM_G.c -o .\CortexM0\ARM_GCC_484\Debug\PWM_G.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM_G_PM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM_G_PM.c -o .\CortexM0\ARM_GCC_484\Debug\PWM_G_PM.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM_B.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM_B.c -o .\CortexM0\ARM_GCC_484\Debug\PWM_B.o
+arm-none-eabi-gcc.exe -mcpu=cortex-m0 -mthumb -Wno-main -I. -I.\Generated_Source\PSoC4 -Wa,-alh=.\CortexM0\ARM_GCC_484\Debug/PWM_B_PM.lst -g -D DEBUG -Wall -ffunction-sections -O0 -c .\Generated_Source\PSoC4\PWM_B_PM.c -o .\CortexM0\ARM_GCC_484\Debug\PWM_B_PM.o
+arm-none-eabi-ar.exe -rs .\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.a .\CortexM0\ARM_GCC_484\Debug\cyfitter_cfg.o .\CortexM0\ARM_GCC_484\Debug\UART.o .\CortexM0\ARM_GCC_484\Debug\UART_SPI_UART.o .\CortexM0\ARM_GCC_484\Debug\UART_SPI_UART_INT.o .\CortexM0\ARM_GCC_484\Debug\UART_PM.o .\CortexM0\ARM_GCC_484\Debug\UART_UART.o .\CortexM0\ARM_GCC_484\Debug\UART_BOOT.o .\CortexM0\ARM_GCC_484\Debug\UART_UART_BOOT.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_PM.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_CSHL.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_INT.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_TunerHelper.o .\CortexM0\ARM_GCC_484\Debug\Pin_GreenLED.o .\CortexM0\ARM_GCC_484\Debug\counter_isr.o .\CortexM0\ARM_GCC_484\Debug\Counter_Controll_Register.o .\CortexM0\ARM_GCC_484\Debug\Pin_BlueLED.o .\CortexM0\ARM_GCC_484\Debug\Clock.o .\CortexM0\ARM_GCC_484\Debug\PWM.o .\CortexM0\ARM_GCC_484\Debug\PWM_PM.o .\CortexM0\ARM_GCC_484\Debug\UART_SCBCLK.o .\CortexM0\ARM_GCC_484\Debug\UART_tx.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_SampleClk.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_Sns.o .\CortexM0\ARM_GCC_484\Debug\CapSense_CSD_SenseClk.o .\CortexM0\ARM_GCC_484\Debug\CyBootAsmGnu.o .\CortexM0\ARM_GCC_484\Debug\CyFlash.o .\CortexM0\ARM_GCC_484\Debug\CyLib.o .\CortexM0\ARM_GCC_484\Debug\cyPm.o .\CortexM0\ARM_GCC_484\Debug\cyutils.o .\CortexM0\ARM_GCC_484\Debug\Clock_PWM.o .\CortexM0\ARM_GCC_484\Debug\Pin_RedLED.o .\CortexM0\ARM_GCC_484\Debug\PWM_R.o .\CortexM0\ARM_GCC_484\Debug\PWM_R_PM.o .\CortexM0\ARM_GCC_484\Debug\PWM_G.o .\CortexM0\ARM_GCC_484\Debug\PWM_G_PM.o .\CortexM0\ARM_GCC_484\Debug\PWM_B.o .\CortexM0\ARM_GCC_484\Debug\PWM_B_PM.o
+arm-none-eabi-ar.exe: creating .\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.a
+arm-none-eabi-gcc.exe -Wl,--start-group -o .\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.elf .\CortexM0\ARM_GCC_484\Debug\main.o .\CortexM0\ARM_GCC_484\Debug\CCR.o .\CortexM0\ARM_GCC_484\Debug\proximity.o .\CortexM0\ARM_GCC_484\Debug\LED_RGB.o .\CortexM0\ARM_GCC_484\Debug\cymetadata.o .\CortexM0\ARM_GCC_484\Debug\Cm0Start.o .\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.a "C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_10\PSoC4\Library\CapsenseP4Library_GCC.a" "C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM0\ARM_GCC_484\Debug\CyComponentLibrary.a" -mthumb -march=armv6-m -Wl,-Map,.\CortexM0\ARM_GCC_484\Debug/Jahresprojekt.map -T .\Generated_Source\PSoC4\cm0gcc.ld -g -specs=nano.specs "-u _printf_float" "" -Wl,--gc-sections -Wl,--end-group
+cyelftool.exe -C "C:\Users\Sausy\Documents\PSoC Creator\FTLK\Jahresprojekt\Jahresprojekt.cydsn\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.elf" --flash_size 32768 --flash_row_size 128
+cyelftool.exe -S "C:\Users\Sausy\Documents\PSoC Creator\FTLK\Jahresprojekt\Jahresprojekt.cydsn\CortexM0\ARM_GCC_484\Debug\Jahresprojekt.elf"
+Flash used: 9248 of 32768 bytes (28,2%).
+SRAM used: 1604 of 4096 bytes (39,2%). Stack: 1024 bytes. Heap: 128 bytes.
+--------------- Rebuild Succeeded: 03/27/2015 17:58:04 ---------------
